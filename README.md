@@ -5,4 +5,4 @@ A mini quest about two friends, who found themselves in a mysterious hotel (made
 
 Game language: English;
 
-! To run the game you need to have RPG Maker VX Ace on your computer.
+! To run the game you need to install RPG Maker Vx Ace RTP.
